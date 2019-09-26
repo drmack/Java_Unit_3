@@ -1,4 +1,4 @@
-public class UnitCircle extends ConsoleProgram
+public class UnitCircle
 {
     public static void main(String[] args) {
         

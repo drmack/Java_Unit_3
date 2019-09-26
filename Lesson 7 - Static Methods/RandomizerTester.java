@@ -1,4 +1,4 @@
-public class RandomizerTester extends ConsoleProgram
+public class RandomizerTester
 {
     public static void main(String[] args) {
         // Generate 10 random ints

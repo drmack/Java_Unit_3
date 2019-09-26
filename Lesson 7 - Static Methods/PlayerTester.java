@@ -1,4 +1,4 @@
-public class PlayerTester extends ConsoleProgram
+public class PlayerTester
 {
     public static void main(String[] args) {
         

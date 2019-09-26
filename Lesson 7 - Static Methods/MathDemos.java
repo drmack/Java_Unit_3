@@ -1,4 +1,4 @@
-public class MathDemos extends ConsoleProgram
+public class MathDemos
 {
     public static void main(String[] args) {
         // Note here these are all static methods called on

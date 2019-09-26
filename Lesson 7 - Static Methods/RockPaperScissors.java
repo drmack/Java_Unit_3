@@ -1,4 +1,4 @@
-public class RockPaperScissors extends ConsoleProgram
+public class RockPaperScissors
 {
     private static final String USER_PLAYER = "User wins!";
     private static final String COMPUTER_PLAYER = "Computer wins!";

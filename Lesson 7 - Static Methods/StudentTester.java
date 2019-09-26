@@ -1,4 +1,4 @@
-public class StudentTester extends ConsoleProgram
+public class StudentTester
 {
     public static void main(String[] args) {
         Student alan = new Student("Alan", "Turing", 11);
