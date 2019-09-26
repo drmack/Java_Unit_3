@@ -1,4 +1,4 @@
-public class Sum extends ConsoleProgram
+public class Sum
 {
     
     /*
@@ -8,8 +8,7 @@ public class Sum extends ConsoleProgram
      * 2. The ordering of the parameters are different
      * 3. The total number of parameters are different
      */
-    public void run()
-    {
+    public static void main(String[] args) {
         int intValue = 3;
         double doubleValue = 3.0;
         
